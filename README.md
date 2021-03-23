@@ -7,5 +7,5 @@
 - [ ] Web View
 
 
-[Crie Apps Profissionais com a linguagem kotlin!](https://bit.ly/curso_criar_aplicativo_kotlin)
+[Crie Apps Profissionais!](https://bit.ly/curso_criar_aplicativo_kotlin)
 
