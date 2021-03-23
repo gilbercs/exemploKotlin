@@ -8,4 +8,4 @@
 - [ ]
 
 
-[kotlin](https://go.hotmart.com/N48358877R)
+[kotlin](https://go.hotmart.com/N48358877R){:target="_blank"}
