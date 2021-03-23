@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exemplo Kotlin</string>
+    <string name="btn_list_view">List View</string>
+    <string name="btn_grid_view">Grid View</string>
+    <string name="btn_search_view">Search View</string>
+    <string name="btn_custom_list_view">Custom List View</string>
+    <string name="btn_web_view">Web View</string>
+    <string name="btn_search_view_toolbar">Search View Toolbar</string>
+    <string name="btn_expandable_list_view">Expandable List View</string>
+    <string name="btn_container">container</string>
+    <string name="txt_exemplo">exemplo</string>
+    <string name="txt_exemplo_data">10/10/2022</string>
+    <string name="ignore">ignore</string>
+</resources>
