@@ -7,5 +7,5 @@
 - [ ] Web View
 
 
-[Crie Apps Profissionais com a linguagem kotlin!](https://go.hotmart.com/N48358877R)
+[Crie Apps Profissionais com a linguagem kotlin!](https://bit.ly/curso_criar_aplicativo_kotlin)
 
