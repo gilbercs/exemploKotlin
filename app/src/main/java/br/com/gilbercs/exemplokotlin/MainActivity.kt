@@ -4,10 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import br.com.gilbercs.exemplokotlin.container.CustomActivity
-import br.com.gilbercs.exemplokotlin.container.GridViewActivity
-import br.com.gilbercs.exemplokotlin.container.ListViewActivity
-import br.com.gilbercs.exemplokotlin.container.SearchViewActivity
+import br.com.gilbercs.exemplokotlin.container.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -28,6 +25,10 @@ class MainActivity : AppCompatActivity() {
     }
     fun customView(view: View){
         val abrir = Intent(applicationContext, CustomActivity::class.java)
+        startActivity(abrir)
+    }
+    fun navWebView(view: View){
+        val abrir = Intent(applicationContext, WebViewActivity::class.java)
         startActivity(abrir)
     }
 }

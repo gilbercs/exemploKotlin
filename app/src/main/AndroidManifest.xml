@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.gilbercs.exemplokotlin">
-
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ExemploKotlin">
-        <activity android:name=".container.SearchViewActiivity"></activity>
+        <activity android:name=".container.WebViewActivity"></activity>
         <activity android:name=".container.ExpandableActivity" />
         <activity android:name=".container.SearchViewToobar" />
         <activity android:name=".container.CustomActivity" />
