@@ -31,4 +31,8 @@ class MainActivity : AppCompatActivity() {
         val abrir = Intent(applicationContext, WebViewActivity::class.java)
         startActivity(abrir)
     }
+    fun buscarViewToolbar(view: View){
+        val abrir = Intent(applicationContext, SearchViewToobar::class.java)
+        startActivity(abrir)
+    }
 }

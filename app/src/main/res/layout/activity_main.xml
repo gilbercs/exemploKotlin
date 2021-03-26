@@ -47,4 +47,11 @@
         android:onClick="navWebView"
         android:text="@string/btn_web_view" />
 
+    <Button
+        android:id="@+id/idBtnSeachViewToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buscarViewToolbar"
+        android:text="@string/btn_search_view_toolbar" />
+
 </LinearLayout>
