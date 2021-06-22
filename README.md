@@ -12,5 +12,5 @@
 
 
 
-[Crie Apps Profissionais!](https://bit.ly/curso_criar_aplicativo_kotlin)
+Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟, dessa forma, outras pessoas podem encontrá-lo e se beneficiar também!
 
